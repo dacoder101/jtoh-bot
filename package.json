@@ -1,0 +1,25 @@
+{
+    "name": "jtoh-bot",
+    "version": "1.0.0",
+    "description": "JToH discord bot",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dacoder101/jtoh-bot.git"
+    },
+    "author": "dacoder101",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dacoder101/jtoh-bot/issues"
+    },
+    "homepage": "https://github.com/dacoder101/jtoh-bot#readme",
+    "dependencies": {
+        "axios": "^1.7.2",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "nodemon": "^3.1.4"
+    }
+}
