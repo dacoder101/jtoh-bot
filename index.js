@@ -1,4 +1,4 @@
-const { getBadges } = require("./badgeAPI.js");
+const { getBadges } = require("./badgeAPI");
 
 const userID = "2063627535";
 const placeID = "8562822414";
