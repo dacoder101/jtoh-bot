@@ -1,4 +1,9 @@
-const { capitalizeWords, dashBeforeCapitals } = require("./func");
+const {
+    capitalizeWords,
+    dashBeforeCapitals,
+    findKeyByValue,
+    findClosestDownwardValue,
+} = require("./func");
 
 const difficultyMappings = {
     easy: 1,
@@ -12,6 +17,9 @@ const difficultyMappings = {
     extreme: 9,
     terrifying: 10,
     catastrophic: 11,
+    horrific: 12,
+    unreal: 13,
+    nil: 14,
 };
 
 const decimalDifficultyMappings = {
@@ -96,44 +104,28 @@ class Tower {
                 difficultyMappings[difficultyNum] === Math.floor(difficulty)
         );
 
-        if (difficulty % 1 === 0) {
-            console.log(
-                difficulty + " " + baseDifficultyName + " " + (difficulty % 1)
-            );
-            return `${
-                Object.keys(decimalDifficultyMappings)[0]
-            } ${baseDifficultyName}`;
-        }
-
-        const decimalDifficulty = difficulty % 1;
-        const difficultyValues = Object.values(decimalDifficultyMappings);
-
-        const decimalDifficultyChecks = difficultyValues.map(
-            (value) => decimalDifficulty <= value
+        const decimalDifficulty = parseFloat(
+            (difficulty - Math.floor(difficulty)).toFixed(2)
         );
 
-        for (let i = 2; i < decimalDifficultyChecks.length; i++) {
-            if (decimalDifficultyChecks[i]) {
-                return `${
-                    Object.keys(decimalDifficultyMappings)[i - 1]
-                } ${baseDifficultyName}`;
-            }
-        }
-
-        return `${
-            Object.keys(decimalDifficultyMappings)[
-                Object.keys(decimalDifficultyMappings).length - 1
-            ]
-        } ${baseDifficultyName}`;
+        return capitalizeWords(
+            `${dashBeforeCapitals(
+                findKeyByValue(
+                    decimalDifficultyMappings,
+                    findClosestDownwardValue(
+                        Object.values(decimalDifficultyMappings),
+                        decimalDifficulty
+                    )
+                )
+            )} ${baseDifficultyName}`
+        );
     }
 
     constructor(name, difficulty, area) {
         this.name = "Tower of " + name;
         this.acyronym = Tower.getAcyronym(this.name);
         this.difficulty = difficulty;
-        this.difficultyName = capitalizeWords(
-            dashBeforeCapitals(Tower.difficultyName(difficulty))
-        );
+        this.difficultyName = Tower.difficultyName(difficulty);
         this.world = Tower.findWorld(area);
         this.area = area;
         this.floors = nineFloorTowers.includes(this.name) ? 9 : 10;
@@ -158,10 +150,10 @@ class Citadel extends Steeple {
 }
 
 const towers = [
-    new Tower("Annoyingly Simple Trials", 1.99, "Ring 1"),
-    new Tower("Oblivion", 9, "Zone 1"),
+    new Tower("Annoyingly Simple Trials", 1.89, "Ring 1"),
+    new Tower("Oblivion", 9.0, "Zone 1"),
     new Steeple("Stupidness", 1.11, "Ring 1", 5),
-    new Citadel("Peril", 11.01, "Ring 1", 15),
+    new Citadel("Peril", 1.11, "Ring 1", 15),
 ];
 
 console.log(towers);

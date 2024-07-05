@@ -9,4 +9,21 @@ function dashBeforeCapitals(str) {
     return str.replace(/([A-Z])/g, "-$1").trim();
 }
 
-module.exports = { capitalizeWords, dashBeforeCapitals };
+function findKeyByValue(dictionary, value) {
+    return Object.keys(dictionary).find((key) => dictionary[key] === value);
+}
+
+function findClosestDownwardValue(array, target) {
+    const filteredArray = array.filter((value) => value <= target);
+    if (filteredArray.length === 0) {
+        return null;
+    }
+    return Math.max(...filteredArray);
+}
+
+module.exports = {
+    capitalizeWords,
+    dashBeforeCapitals,
+    findKeyByValue,
+    findClosestDownwardValue,
+};
