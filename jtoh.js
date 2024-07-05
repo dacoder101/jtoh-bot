@@ -76,6 +76,12 @@ class AreaDoesNotExistError extends Error {
     }
 }
 
+class DifficultyDoesNotExistError extends Error {
+    constructor(difficulty) {
+        super(`Difficulty "${difficulty}" does not exist..`);
+    }
+}
+
 class Tower {
     static getAcyronym(towerName) {
         return towerName
@@ -99,9 +105,14 @@ class Tower {
     }
 
     static difficultyName(difficulty) {
+        const baseDifficulty = Math.floor(difficulty);
+
+        if (!Object.values(difficultyMappings).includes(baseDifficulty)) {
+            throw new DifficultyDoesNotExistError(difficulty);
+        }
+
         const baseDifficultyName = Object.keys(difficultyMappings).find(
-            (difficultyNum) =>
-                difficultyMappings[difficultyNum] === Math.floor(difficulty)
+            (key) => difficultyMappings[key] === baseDifficulty
         );
 
         const decimalDifficulty = parseFloat(
@@ -148,12 +159,3 @@ class Citadel extends Steeple {
         this.acyronym = Tower.getAcyronym(this.name);
     }
 }
-
-const towers = [
-    new Tower("Annoyingly Simple Trials", 1.89, "Ring 1"),
-    new Tower("Oblivion", 9.0, "Zone 1"),
-    new Steeple("Stupidness", 1.11, "Ring 1", 5),
-    new Citadel("Peril", 1.11, "Ring 1", 15),
-];
-
-console.log(towers);
