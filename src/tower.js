@@ -87,10 +87,41 @@ class Tower {
         );
     }
 
-    constructor(name, difficulty) {
+    constructor(name, difficulty, floors = 10, badgeID = null) {
         this.name = name;
         this.acyronym = Tower.getAcyronym(name);
         this.difficulty = difficulty;
         this.difficultyName = Tower.difficultyName(difficulty);
+        this.floors = floors;
+        this.badgeID = badgeID;
     }
 }
+
+class Steeple extends Tower {
+    constructor(name, difficulty, floors, badgeID = null) {
+        super(name, difficulty, floors, badgeID);
+    }
+}
+
+class Citadel extends Tower {
+    constructor(name, difficulty, floors, badgeID = null) {
+        super(name, difficulty, floors, badgeID);
+    }
+}
+
+class Obelisk extends Tower {
+    constructor(name, difficulty, floors, badgeID = null) {
+        super(name, difficulty, floors, badgeID);
+    }
+}
+
+module.exports = {
+    difficultyMappings,
+    decimalDifficultyMappings,
+    AreaDoesNotExistError,
+    DifficultyDoesNotExistError,
+    Tower,
+    Steeple,
+    Citadel,
+    Obelisk,
+};
