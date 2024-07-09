@@ -9,8 +9,8 @@ function dashBeforeCapitals(str) {
     return str.replace(/([A-Z])/g, "-$1").trim();
 }
 
-function findKeyByValue(dictionary, value) {
-    return Object.keys(dictionary).find((key) => dictionary[key] === value);
+function findKeyByValue(object, value) {
+    return Object.keys(object).find((key) => object[key] === value);
 }
 
 function findClosestDownwardValue(array, target) {

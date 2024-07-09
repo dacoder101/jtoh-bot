@@ -4,6 +4,8 @@ const {
     findKeyByValue,
     findClosestDownwardValue,
 } = require("./func");
+const fs = require("fs");
+const path = require("path");
 
 const difficultyMappings = {
     easy: 1,
@@ -38,6 +40,12 @@ const decimalDifficultyMappings = {
 class AreaDoesNotExistError extends Error {
     constructor(area) {
         super(`Area "${area}" does not exist.`);
+    }
+}
+
+class ValueEmptyError extends Error {
+    constructor(value) {
+        super(`Value "${value}" is empty.`);
     }
 }
 
@@ -115,6 +123,17 @@ class Obelisk extends Tower {
     }
 }
 
+function JSONToTowers(input) {
+    let jsonData;
+
+    try {
+        jsonData = JSON.parse(input);
+    } catch (e) {
+        const absolutePath = path.resolve(__dirname, input);
+        jsonData = JSON.parse(fs.readFileSync(absolutePath, "utf8"));
+    }
+}
+
 module.exports = {
     difficultyMappings,
     decimalDifficultyMappings,
@@ -124,4 +143,5 @@ module.exports = {
     Steeple,
     Citadel,
     Obelisk,
+    JSONToTowers,
 };
