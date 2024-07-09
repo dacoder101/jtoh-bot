@@ -2,7 +2,7 @@
 
 **Do you need a solution for JToH/JToH fangame Discord servers? Here's the answer!**
 
-**JToH Bot** is a Discord bot designed for JToH-based Discord servers and already has defaults for **JToH**, **AToS**, **CSCD**, and **JToH XL**.
+**JToH Bot** is a Discord bot designed for JToH-based Discord servers and has default support for **JToH**, **AToS**, **CSCD**, and **JToH XL**.
 
 ## Feature List
 
