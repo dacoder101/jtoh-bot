@@ -94,8 +94,3 @@ class Tower {
         this.difficultyName = Tower.difficultyName(difficulty);
     }
 }
-
-// Floors for towers should default at ten, but should be an optional argument.
-// This should be renamed to tower.js, and JToH.js should include all JToH towers.
-// Server administrators should be able to add towers not present in the game/unverifiable by badgeID.
-// BadgeID should be another optional argument, defaulting to null. Null towers will need to be added to a player manually.
