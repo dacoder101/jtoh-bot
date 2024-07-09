@@ -1,0 +1,86 @@
+{
+    "name": "Juke's Towers of Hell",
+
+    "worlds": ["The Great Inferno", "Spatial System"],
+
+    "areas": [
+        [
+            "Ring 1",
+            "Ring 2",
+            "Ring 3",
+            "Ring 4",
+            "Ring 5",
+            "Ring 6",
+            "Ring 7",
+            "Ring 8",
+            "Ring 9",
+            "Forgotten Ridge",
+            "Garden of Eeshöl",
+            "Silent Abyss",
+            "Lost River",
+            "Ashen Towerworks"
+        ],
+        [
+            "Zone 1",
+            "Zone 2",
+            "Zone 3",
+            "Zone 4",
+            "Zone 5",
+            "Zone 6",
+            "Zone 7",
+            "Zone 8",
+            "Paradise Atoll",
+            "Arcane Area",
+            "Pit of Misery"
+        ]
+    ],
+
+    "towers": [
+        [
+            {
+                "Tower of Annoyingly Simple Trials": {
+                    "difficulty": 1.3
+                },
+                "Tower of Anger": {
+                    "difficulty": 1.5
+                },
+                "Tower of Madness": {
+                    "difficulty": 2
+                },
+                "Tower of Hecc": {
+                    "difficulty": 3.45
+                },
+                "Tower of Killjoys": {
+                    "difficulty": 3.47
+                },
+                "Tower of Keyboard Yeeting": {
+                    "difficulty": 4.14
+                },
+                "Tower of Stress": {
+                    "difficulty": 5
+                },
+                "Tower of Screen Punching": {
+                    "difficulty": 5.29,
+                    "floors": 9
+                },
+                "Tower of Rage": {
+                    "difficulty": 5.71
+                },
+                "Tower of Impossible Expectations": {
+                    "difficulty": 6
+                },
+                "Citadel of Laptop Splitting": {
+                    "difficulty": 6.43,
+                    "type": "citadel"
+                },
+                "Tower of True Skill": {
+                    "difficulty": 7
+                },
+                "Thanos Tower": {
+                    "difficulty": 8.15
+                }
+            }
+        ],
+        [{}]
+    ]
+}
