@@ -35,41 +35,6 @@ const decimalDifficultyMappings = {
     peak: 0.89,
 };
 
-const worldMappings = {
-    "The Great Inferno": [
-        "Ring 1",
-        "Ring 2",
-        "Ring 3",
-        "Ring 4",
-        "Ring 5",
-        "Ring 6",
-        "Ring 7",
-        "Ring 8",
-        "Ring 9",
-        "Forgotten Ridge",
-        "Garden of Eeshöl",
-        "Silent Abyss",
-        "Lost River",
-        "Ashen Towerworks",
-    ],
-
-    "Spatial System": [
-        "Zone 1",
-        "Zone 2",
-        "Zone 3",
-        "Zone 4",
-        "Zone 5",
-        "Zone 6",
-        "Zone 7",
-        "Zone 8",
-        "Paradise Atoll",
-        "Arcane Area",
-        "Pit of Misery",
-    ],
-};
-
-const nineFloorTowers = ["Tower of Screen Punching", "Tower of Oblivion"];
-
 class AreaDoesNotExistError extends Error {
     constructor(area) {
         super(`Area "${area}" does not exist.`);
@@ -87,21 +52,11 @@ class Tower {
         return towerName
             .split(" ")
             .map((word) =>
-                ["and", "of", "the"].includes(word)
+                ["and", "of", "the"].includes(word.toLowerCase())
                     ? word[0].toLowerCase()
                     : word[0].toUpperCase()
             )
             .join("");
-    }
-
-    static findWorld(area) {
-        for (const world in worldMappings) {
-            if (worldMappings[world].includes(area)) {
-                return world;
-            }
-        }
-
-        throw new AreaDoesNotExistError(area);
     }
 
     static difficultyName(difficulty) {
@@ -132,30 +87,15 @@ class Tower {
         );
     }
 
-    constructor(name, difficulty, area) {
+    constructor(name, difficulty) {
         this.name = "Tower of " + name;
         this.acyronym = Tower.getAcyronym(this.name);
         this.difficulty = difficulty;
         this.difficultyName = Tower.difficultyName(difficulty);
-        this.world = Tower.findWorld(area);
-        this.area = area;
-        this.floors = nineFloorTowers.includes(this.name) ? 9 : 10;
     }
 }
 
-class Steeple extends Tower {
-    constructor(name, difficulty, area, floors) {
-        super(name, difficulty, area);
-        this.name = "Steeple of " + name;
-        this.acyronym = Tower.getAcyronym(this.name);
-        this.floors = floors;
-    }
-}
-
-class Citadel extends Steeple {
-    constructor(name, difficulty, area, floors) {
-        super(name, difficulty, area, floors);
-        this.name = "Citadel of " + name;
-        this.acyronym = Tower.getAcyronym(this.name);
-    }
-}
+// Floors for towers should default at ten, but should be an optional argument.
+// This should be renamed to tower.js, and JToH.js should include all JToH towers.
+// Server administrators should be able to add towers not present in the game/unverifiable by badgeID.
+// BadgeID should be another optional argument, defaulting to null. Null towers will need to be added to a player manually.

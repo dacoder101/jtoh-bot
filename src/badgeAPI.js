@@ -14,16 +14,11 @@ async function getBadges(userID, placeID = null) {
         );
 
         let data = response.data.data;
-        console.log("Fetched data:", data);
 
         if (placeID) {
-            console.log("Filtering badges for placeID:", placeID);
-
             data = data.filter((badge) => {
                 return badge.awarder.id == placeID;
             });
-
-            console.log("Filtered data:", data);
         }
 
         const jsonData = JSON.stringify(data, null, 4);
@@ -34,5 +29,7 @@ async function getBadges(userID, placeID = null) {
         console.error(error);
     }
 }
+
+getBadges(1003292787, 8562822414);
 
 module.exports = { getBadges };

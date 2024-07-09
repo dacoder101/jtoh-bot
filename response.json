@@ -1,528 +1,528 @@
 [
     {
-        "id": 2125416501,
-        "name": "Beat The Tower of Aamos' Anger",
-        "description": "You defeated an angry aamos and saved everyone he held hostage, good job!",
-        "displayName": "Beat The Tower of Aamos' Anger",
-        "displayDescription": "You defeated an angry aamos and saved everyone he held hostage, good job!",
+        "id": 2125416883,
+        "name": "Beat The Tower of Zespluz",
+        "description": "You have managed to conquer all of the puzzles in this tower that are designed to bring pain and confusion. I truly salute you.",
+        "displayName": "Beat The Tower of Zespluz",
+        "displayDescription": "You have managed to conquer all of the puzzles in this tower that are designed to bring pain and confusion. I truly salute you.",
         "enabled": true,
-        "iconImageId": 9151611849,
-        "displayIconImageId": 9151611849,
+        "iconImageId": 9198748169,
+        "displayIconImageId": 9198748169,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 10,
-            "awardedCount": 8062,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T03:32:49.63Z",
-        "updated": "2022-03-20T10:07:37.767Z"
-    },
-    {
-        "id": 2125383952,
-        "name": "Beat The Tower of Obvious Chaos",
-        "description": "No Deltarune reference h-I CAN DO ANYTHING! sorry",
-        "displayName": "Beat The Tower of Obvious Chaos",
-        "displayDescription": "No Deltarune reference h-I CAN DO ANYTHING! sorry",
-        "enabled": true,
-        "iconImageId": 9199228263,
-        "displayIconImageId": 9199228263,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 12833,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-12T03:26:59.623Z",
-        "updated": "2022-03-26T10:16:12.733Z"
-    },
-    {
-        "id": 2125416514,
-        "name": "Beat The Tower of Vibrant Adventures",
-        "description": "Would this tower lose its meaning if you made your screen black & white?",
-        "displayName": "Beat The Tower of Vibrant Adventures",
-        "displayDescription": "Would this tower lose its meaning if you made your screen black & white?",
-        "enabled": true,
-        "iconImageId": 9151616724,
-        "displayIconImageId": 9151616724,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 5,
-            "awardedCount": 8970,
+            "pastDayAwardedCount": 7,
+            "awardedCount": 4466,
             "winRatePercentage": 0
         },
-        "created": "2022-03-13T03:33:54.523Z",
-        "updated": "2022-03-20T10:08:19.347Z"
+        "created": "2022-03-13T04:03:11.18Z",
+        "updated": "2022-03-26T09:08:34.817Z"
     },
     {
-        "id": 2125394315,
-        "name": "Beat The Tower of Collective Collaboration",
-        "description": "Not sure what the old badge description said since it was filtered but here is a new one, just for you.",
-        "displayName": "Beat The Tower of Collective Collaboration",
-        "displayDescription": "Not sure what the old badge description said since it was filtered but here is a new one, just for you.",
+        "id": 2150139836,
+        "name": "Beat The Tower of Fruity Zeal",
+        "description": "A quick reminder to stay healthy! Eat your fruits!",
+        "displayName": "Beat The Tower of Fruity Zeal",
+        "displayDescription": "A quick reminder to stay healthy! Eat your fruits!",
         "enabled": true,
-        "iconImageId": 9088316854,
-        "displayIconImageId": 9088316854,
+        "iconImageId": 14398939732,
+        "displayIconImageId": 14398939732,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 5,
-            "awardedCount": 9070,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-12T18:50:05.27Z",
-        "updated": "2022-03-13T08:19:12.033Z"
-    },
-    {
-        "id": 2143541590,
-        "name": "Beat The Tower of Flame Restoration",
-        "description": "Needs more flames tbh..",
-        "displayName": "Beat The Tower of Flame Restoration",
-        "displayDescription": "Needs more flames tbh..",
-        "enabled": true,
-        "iconImageId": 13019854597,
-        "displayIconImageId": 13019854597,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 5,
-            "awardedCount": 4302,
-            "winRatePercentage": 0
-        },
-        "created": "2023-04-06T16:06:37.02Z",
-        "updated": "2023-04-06T16:06:37.02Z"
-    },
-    {
-        "id": 2130253292,
-        "name": "Beat The Tower of Mind Breaking",
-        "description": "Wasn't expecting an SC here, were you? Good job anyways! :D",
-        "displayName": "Beat The Tower of Mind Breaking",
-        "displayDescription": "Wasn't expecting an SC here, were you? Good job anyways! :D",
-        "enabled": true,
-        "iconImageId": 12021536132,
-        "displayIconImageId": 12021536132,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 5,
-            "awardedCount": 3600,
-            "winRatePercentage": 0
-        },
-        "created": "2023-01-03T20:25:02.837Z",
-        "updated": "2023-01-03T20:25:02.837Z"
-    },
-    {
-        "id": 2125365155,
-        "name": "Beat The Tower of Deep Darkness",
-        "description": "Light is a myth here. What can you do with the Deep Darkness?",
-        "displayName": "Beat The Tower of Deep Darkness",
-        "displayDescription": "Light is a myth here. What can you do with the Deep Darkness?",
-        "enabled": true,
-        "iconImageId": 9072974331,
-        "displayIconImageId": 9072974331,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 18417,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-11T23:14:06.397Z",
-        "updated": "2022-03-11T23:14:06.397Z"
-    },
-    {
-        "id": 2125416812,
-        "name": "Beat The Tower of Wanting Extra Levels",
-        "description": "The tower wanted extra levels but it didn't get any. h",
-        "displayName": "Beat The Tower of Wanting Extra Levels",
-        "displayDescription": "The tower wanted extra levels but it didn't get any. h",
-        "enabled": true,
-        "iconImageId": 9199641822,
-        "displayIconImageId": 9199641822,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 10,
-            "awardedCount": 10320,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T03:57:48.673Z",
-        "updated": "2022-03-26T11:12:05.423Z"
-    },
-    {
-        "id": 2125419019,
-        "name": "Beat The Tower of Icy Adventures",
-        "description": "You probably forgot that this was a JToH tower along the way because of the story.",
-        "displayName": "Beat The Tower of Icy Adventures",
-        "displayDescription": "You probably forgot that this was a JToH tower along the way because of the story.",
-        "enabled": true,
-        "iconImageId": 9088106558,
-        "displayIconImageId": 9088106558,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 4728,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:47:08.377Z",
-        "updated": "2022-03-13T07:47:08.377Z"
-    },
-    {
-        "id": 2125418976,
-        "name": "Beat The Tower of Traversing The Tropics",
-        "description": "Depths no obbyist has gone to...",
-        "displayName": "Beat The Tower of Traversing The Tropics",
-        "displayDescription": "Depths no obbyist has gone to...",
-        "enabled": true,
-        "iconImageId": 9088080951,
-        "displayIconImageId": 9088080951,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 7244,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:43:16.713Z",
-        "updated": "2022-03-13T07:43:16.713Z"
-    },
-    {
-        "id": 2125416732,
-        "name": "Beat The Citadel of Weird Nostalgia",
-        "description": "Created at JToH Laboratories. Don't try this at home kids.",
-        "displayName": "Beat The Citadel of Weird Nostalgia",
-        "displayDescription": "Created at JToH Laboratories. Don't try this at home kids.",
-        "enabled": true,
-        "iconImageId": 9199534673,
-        "displayIconImageId": 9199534673,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 6,
-            "awardedCount": 7546,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-13T03:51:38.963Z",
-        "updated": "2022-03-26T10:57:37.817Z"
-    },
-    {
-        "id": 2125418624,
-        "name": "Beat the Tower of Horrifying Experiences",
-        "description": "Extra challenge: Do this tower at 3 AM.",
-        "displayName": "Beat the Tower of Horrifying Experiences",
-        "displayDescription": "Extra challenge: Do this tower at 3 AM.",
-        "enabled": true,
-        "iconImageId": 9151470118,
-        "displayIconImageId": 9151470118,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 6519,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:08:31.79Z",
-        "updated": "2022-03-20T09:47:52.47Z"
-    },
-    {
-        "id": 2125416731,
-        "name": "Beat The Tower of Dangerous Expeditions",
-        "description": "Hope it wasn't TOO dangerous. Good job beating one of the Forgotten Ridge's hardest towers.",
-        "displayName": "Beat The Tower of Dangerous Expeditions",
-        "displayDescription": "Hope it wasn't TOO dangerous. Good job beating one of the Forgotten Ridge's hardest towers.",
-        "enabled": true,
-        "iconImageId": 9199532925,
-        "displayIconImageId": 9199532925,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 13,
-            "awardedCount": 8984,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T03:51:22.27Z",
-        "updated": "2022-03-26T10:57:22.833Z"
-    },
-    {
-        "id": 2125416725,
-        "name": "Beat The Tower of Increasing Stress",
-        "description": "This tower is the true test to see how long before your increasing anxiety and increasing stress get to you. If you have this badge, MAX KEK!",
-        "displayName": "Beat The Tower of Increasing Stress",
-        "displayDescription": "This tower is the true test to see how long before your increasing anxiety and increasing stress get to you. If you have this badge, MAX KEK!",
-        "enabled": true,
-        "iconImageId": 9199531581,
-        "displayIconImageId": 9199531581,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 12753,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T03:50:45.503Z",
-        "updated": "2022-03-26T10:57:11.41Z"
-    },
-    {
-        "id": 2125364309,
-        "name": "Beat The Thanos Tower",
-        "description": "You should have gone for the WIN PAD.Wait, you already did? Well heck.",
-        "displayName": "Beat The Thanos Tower",
-        "displayDescription": "You should have gone for the WIN PAD.Wait, you already did? Well heck.",
-        "enabled": true,
-        "iconImageId": 9225782178,
-        "displayIconImageId": 9225782178,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 12,
-            "awardedCount": 9948,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-11T21:44:48.797Z",
-        "updated": "2022-03-29T04:55:03.68Z"
-    },
-    {
-        "id": 2125418381,
-        "name": "Beat The Tower of Double Trouble",
-        "description": "Prepare for trouble, and make it double! Seriously though good job, considering this was likely one of your first SC towers.",
-        "displayName": "Beat The Tower of Double Trouble",
-        "displayDescription": "Prepare for trouble, and make it double! Seriously though good job, considering this was likely one of your first SC towers.",
-        "enabled": true,
-        "iconImageId": 9199597542,
-        "displayIconImageId": 9199597542,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 10608,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T06:44:29.387Z",
-        "updated": "2022-03-26T11:06:00.73Z"
-    },
-    {
-        "id": 2125419280,
-        "name": "Beat Your First Soul-Crushing Tower",
-        "description": "I'm lost for words... H O W ? ? ? You are easily one of the most skilled players in the game! No matter what we throw at you, there is a very high chance you will be able to beat it.",
-        "displayName": "Beat Your First Soul-Crushing Tower",
-        "displayDescription": "I'm lost for words... H O W ? ? ? You are easily one of the most skilled players in the game! No matter what we throw at you, there is a very high chance you will be able to beat it.",
-        "enabled": true,
-        "iconImageId": 9160923616,
-        "displayIconImageId": 9160923616,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 27,
-            "awardedCount": 20086,
+            "pastDayAwardedCount": 35,
+            "awardedCount": 11460,
             "winRatePercentage": 0.002
         },
-        "created": "2022-03-13T08:07:39.153Z",
-        "updated": "2022-03-21T09:28:00.38Z"
+        "created": "2023-08-11T18:51:23.82Z",
+        "updated": "2023-08-11T18:51:23.82Z"
     },
     {
-        "id": 2125419244,
-        "name": "Beat 200 Towers",
-        "description": "stop",
-        "displayName": "Beat 200 Towers",
-        "displayDescription": "stop",
+        "id": 2150139890,
+        "name": "Beat The Tower of Viaduct Traversing",
+        "description": "\"When SA\" \"When R6S\" - this tower's creator",
+        "displayName": "Beat The Tower of Viaduct Traversing",
+        "displayDescription": "\"When SA\" \"When R6S\" - this tower's creator",
         "enabled": true,
-        "iconImageId": 9168055796,
-        "displayIconImageId": 9168055796,
+        "iconImageId": 14398954201,
+        "displayIconImageId": 14398954201,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 6,
-            "awardedCount": 5111,
-            "winRatePercentage": 0
+            "pastDayAwardedCount": 32,
+            "awardedCount": 8919,
+            "winRatePercentage": 0.002
         },
-        "created": "2022-03-13T08:05:12.22Z",
-        "updated": "2022-03-22T08:52:51.797Z"
+        "created": "2023-08-11T18:52:47.747Z",
+        "updated": "2023-08-11T18:52:47.747Z"
     },
     {
-        "id": 2125365158,
-        "name": "Beat The Tower of Difficulty Chart",
-        "description": "I'm sorry if you thought this was an easy tower...",
-        "displayName": "Beat The Tower of Difficulty Chart",
-        "displayDescription": "I'm sorry if you thought this was an easy tower...",
+        "id": 2150139931,
+        "name": "Beat The Tower of Corner Wedge Climbing",
+        "description": "What if I told you that this tower once committed copyright infringement?",
+        "displayName": "Beat The Tower of Corner Wedge Climbing",
+        "displayDescription": "What if I told you that this tower once committed copyright infringement?",
         "enabled": true,
-        "iconImageId": 9072975883,
-        "displayIconImageId": 9072975883,
+        "iconImageId": 14398964404,
+        "displayIconImageId": 14398964404,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 13,
-            "awardedCount": 12381,
-            "winRatePercentage": 0.001
+            "pastDayAwardedCount": 35,
+            "awardedCount": 7848,
+            "winRatePercentage": 0.002
         },
-        "created": "2022-03-11T23:14:20.55Z",
-        "updated": "2022-03-11T23:14:20.55Z"
+        "created": "2023-08-11T18:53:46.17Z",
+        "updated": "2023-08-11T18:53:46.17Z"
     },
     {
-        "id": 2125394384,
-        "name": "Beat The Tower of Yearning Victory",
-        "description": "Gotta love that crown though",
-        "displayName": "Beat The Tower of Yearning Victory",
-        "displayDescription": "Gotta love that crown though",
+        "id": 2150139949,
+        "name": "Beat The Tower of Wanting More Time",
+        "description": "☁️☁️☁️",
+        "displayName": "Beat The Tower of Wanting More Time",
+        "displayDescription": "☁️☁️☁️",
         "enabled": true,
-        "iconImageId": 9088343164,
-        "displayIconImageId": 9088343164,
+        "iconImageId": 14398971569,
+        "displayIconImageId": 14398971569,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 3,
-            "awardedCount": 5684,
-            "winRatePercentage": 0
+            "pastDayAwardedCount": 24,
+            "awardedCount": 6793,
+            "winRatePercentage": 0.002
         },
-        "created": "2022-03-12T18:54:00.177Z",
-        "updated": "2022-03-13T08:23:00.267Z"
+        "created": "2023-08-11T18:54:25.177Z",
+        "updated": "2024-03-02T23:46:25.204Z"
     },
     {
-        "id": 2125416704,
-        "name": "Beat The Steeple of Towering Pillars",
-        "description": "Shouldn't it be steepleing pillars?",
-        "displayName": "Beat The Steeple of Towering Pillars",
-        "displayDescription": "Shouldn't it be steepleing pillars?",
+        "id": 2150139994,
+        "name": "Beat The Tower of Whisking It All",
+        "description": "1. Mix the butter, oil, and sugar in the bowl of a stand mixer.2. Add the eggs one at a time, beating well after each addition. Then, add your vanilla and stir to combine.3. Combine your dry ingredients in a separate bowl, then add about",
+        "displayName": "Beat The Tower of Whisking It All",
+        "displayDescription": "1. Mix the butter, oil, and sugar in the bowl of a stand mixer.2. Add the eggs one at a time, beating well after each addition. Then, add your vanilla and stir to combine.3. Combine your dry ingredients in a separate bowl, then add about",
         "enabled": true,
-        "iconImageId": 9199526044,
-        "displayIconImageId": 9199526044,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 4,
-            "awardedCount": 6705,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-13T03:47:37.413Z",
-        "updated": "2022-03-26T10:56:18.637Z"
-    },
-    {
-        "id": 2125365108,
-        "name": " Beat The Tower of Eternal Suffering",
-        "description": "Rage is forever, respawning is 5 seconds.",
-        "displayName": " Beat The Tower of Eternal Suffering",
-        "displayDescription": "Rage is forever, respawning is 5 seconds.",
-        "enabled": true,
-        "iconImageId": 9225949442,
-        "displayIconImageId": 9225949442,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 16,
-            "awardedCount": 12644,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-11T23:10:27.043Z",
-        "updated": "2022-03-29T05:38:58.177Z"
-    },
-    {
-        "id": 2125365112,
-        "name": "Beat The Tower of Shattered Dreams",
-        "description": "Good lord, you must be one woke boi to have this badge.",
-        "displayName": "Beat The Tower of Shattered Dreams",
-        "displayDescription": "Good lord, you must be one woke boi to have this badge.",
-        "enabled": true,
-        "iconImageId": 9225959159,
-        "displayIconImageId": 9225959159,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 16275,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-11T23:10:50.777Z",
-        "updated": "2022-03-29T05:41:28.857Z"
-    },
-    {
-        "id": 2125383842,
-        "name": "Beat The Tower of Holy Flip",
-        "description": "Holy Flip! (Gotta keep it pg here)",
-        "displayName": "Beat The Tower of Holy Flip",
-        "displayDescription": "Holy Flip! (Gotta keep it pg here)",
-        "enabled": true,
-        "iconImageId": 9151414186,
-        "displayIconImageId": 9151414186,
+        "iconImageId": 14398985393,
+        "displayIconImageId": 14398985393,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
             "pastDayAwardedCount": 15,
-            "awardedCount": 16796,
+            "awardedCount": 2647,
             "winRatePercentage": 0.001
         },
-        "created": "2022-03-12T03:12:11.347Z",
-        "updated": "2022-03-20T09:40:31.147Z"
+        "created": "2023-08-11T18:56:00.047Z",
+        "updated": "2023-08-11T18:56:00.047Z"
     },
     {
-        "id": 2130091638,
-        "name": "Beat The Tower of Odd Odyssey",
-        "description": "This tower's name is gonna make you accidentally type \"oddyssey\" one day.",
-        "displayName": "Beat The Tower of Odd Odyssey",
-        "displayDescription": "This tower's name is gonna make you accidentally type \"oddyssey\" one day.",
+        "id": 2150140037,
+        "name": "Beat The Tower of Shadowy Radiance",
+        "description": "the moth if it wasn't evil",
+        "displayName": "Beat The Tower of Shadowy Radiance",
+        "displayDescription": "the moth if it wasn't evil",
         "enabled": true,
-        "iconImageId": 11947169284,
-        "displayIconImageId": 11947169284,
+        "iconImageId": 14398999591,
+        "displayIconImageId": 14398999591,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 14,
+            "awardedCount": 3895,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-08-11T18:57:31.707Z",
+        "updated": "2023-08-11T18:57:31.707Z"
+    },
+    {
+        "id": 2150140099,
+        "name": "Beat The Tower of Largely Limited Luminance",
+        "description": "I can at least say this tower is not worth three Ls.",
+        "displayName": "Beat The Tower of Largely Limited Luminance",
+        "displayDescription": "I can at least say this tower is not worth three Ls.",
+        "enabled": true,
+        "iconImageId": 14399016053,
+        "displayIconImageId": 14399016053,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 5,
+            "awardedCount": 2251,
+            "winRatePercentage": 0
+        },
+        "created": "2023-08-11T18:59:07.963Z",
+        "updated": "2023-08-11T18:59:07.963Z"
+    },
+    {
+        "id": 2150140003,
+        "name": "Beat The Tower of Whirl of Winds",
+        "description": "WoW",
+        "displayName": "Beat The Tower of Whirl of Winds",
+        "displayDescription": "WoW",
+        "enabled": true,
+        "iconImageId": 14398988849,
+        "displayIconImageId": 14398988849,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 1912,
+            "winRatePercentage": 0
+        },
+        "created": "2023-08-11T18:56:20.66Z",
+        "updated": "2023-08-11T18:56:20.66Z"
+    },
+    {
+        "id": 2150140154,
+        "name": "Beat The Tower of Forever-Sleeping Flower",
+        "description": "when do i go hypernova",
+        "displayName": "Beat The Tower of Forever-Sleeping Flower",
+        "displayDescription": "when do i go hypernova",
+        "enabled": true,
+        "iconImageId": 14399032813,
+        "displayIconImageId": 14399032813,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 13,
+            "awardedCount": 2593,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-08-11T19:00:44.763Z",
+        "updated": "2023-08-11T19:09:49.79Z"
+    },
+    {
+        "id": 2150140240,
+        "name": "Beat The Tower of Climactic Beats",
+        "description": "creo",
+        "displayName": "Beat The Tower of Climactic Beats",
+        "displayDescription": "creo",
+        "enabled": true,
+        "iconImageId": 14399054543,
+        "displayIconImageId": 14399054543,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 13,
+            "awardedCount": 2553,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-08-11T19:02:56.04Z",
+        "updated": "2024-03-02T23:46:59.524Z"
+    },
+    {
+        "id": 2150140190,
+        "name": "Beat The Tower of Mechanical Disarray",
+        "description": "Wait are you talking about Medium Demon? Wait are you talking about Mass Destruction? Wait-",
+        "displayName": "Beat The Tower of Mechanical Disarray",
+        "displayDescription": "Wait are you talking about Medium Demon? Wait are you talking about Mass Destruction? Wait-",
+        "enabled": true,
+        "iconImageId": 14399040651,
+        "displayIconImageId": 14399040651,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
             "pastDayAwardedCount": 8,
-            "awardedCount": 5478,
+            "awardedCount": 1384,
             "winRatePercentage": 0.001
         },
-        "created": "2022-12-25T08:32:17.24Z",
-        "updated": "2022-12-28T02:27:52.83Z"
+        "created": "2023-08-11T19:01:30.88Z",
+        "updated": "2023-08-19T06:15:29.07Z"
+    },
+    {
+        "id": 2150554134,
+        "name": "Beat The Tower of Rhythm Heaven",
+        "description": "Yay! I was waiting for more night tempo music in towers since ToIE!!! (also insert obligatory joke about rhythm heaven here)",
+        "displayName": "Beat The Tower of Rhythm Heaven",
+        "displayDescription": "Yay! I was waiting for more night tempo music in towers since ToIE!!! (also insert obligatory joke about rhythm heaven here)",
+        "enabled": true,
+        "iconImageId": 14490381569,
+        "displayIconImageId": 14490381569,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 7,
+            "awardedCount": 1847,
+            "winRatePercentage": 0
+        },
+        "created": "2023-08-19T06:14:25.877Z",
+        "updated": "2023-08-19T06:14:25.877Z"
+    },
+    {
+        "id": 2143764028,
+        "name": "Beat The Steeple of Ruinous Abate",
+        "description": "👁️",
+        "displayName": "Beat The Steeple of Ruinous Abate",
+        "displayDescription": "👁️",
+        "enabled": true,
+        "iconImageId": 13065677050,
+        "displayIconImageId": 13065677050,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 23,
+            "awardedCount": 10803,
+            "winRatePercentage": 0.002
+        },
+        "created": "2023-04-10T05:26:20.033Z",
+        "updated": "2023-04-10T05:32:31.77Z"
+    },
+    {
+        "id": 2143764022,
+        "name": "Beat The Tower of Ancestral Interference",
+        "description": "The strangest \"frame\" I've ever seen a tower have...",
+        "displayName": "Beat The Tower of Ancestral Interference",
+        "displayDescription": "The strangest \"frame\" I've ever seen a tower have...",
+        "enabled": true,
+        "iconImageId": 13065676185,
+        "displayIconImageId": 13065676185,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 19,
+            "awardedCount": 10228,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:26:08.98Z",
+        "updated": "2023-04-10T05:32:08.29Z"
+    },
+    {
+        "id": 2143764006,
+        "name": "Beat The Steeple of Resort In Stasis",
+        "description": "Is it just me or does that name sound like a celeste reference?",
+        "displayName": "Beat The Steeple of Resort In Stasis",
+        "displayDescription": "Is it just me or does that name sound like a celeste reference?",
+        "enabled": true,
+        "iconImageId": 13065674032,
+        "displayIconImageId": 13065674032,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 23,
+            "awardedCount": 13931,
+            "winRatePercentage": 0.002
+        },
+        "created": "2023-04-10T05:25:46.777Z",
+        "updated": "2023-04-10T05:31:07.553Z"
+    },
+    {
+        "id": 2143764044,
+        "name": "Beat The Steeple of Descendance",
+        "description": "I mean... You did a lot more than just descend in this steeple, didn't you?",
+        "displayName": "Beat The Steeple of Descendance",
+        "displayDescription": "I mean... You did a lot more than just descend in this steeple, didn't you?",
+        "enabled": true,
+        "iconImageId": 13065678822,
+        "displayIconImageId": 13065678822,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 18,
+            "awardedCount": 10793,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:26:38.65Z",
+        "updated": "2023-04-10T05:33:08.237Z"
+    },
+    {
+        "id": 2143764056,
+        "name": "Beat The Steeple of Guiding Lights",
+        "description": "\"Looks like you died to rush again...\"",
+        "displayName": "Beat The Steeple of Guiding Lights",
+        "displayDescription": "\"Looks like you died to rush again...\"",
+        "enabled": true,
+        "iconImageId": 13065681249,
+        "displayIconImageId": 13065681249,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 13,
+            "awardedCount": 7049,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:27:06.943Z",
+        "updated": "2023-04-11T17:38:03.347Z"
+    },
+    {
+        "id": 2143764064,
+        "name": "Beat The Steeple of Xenial Abyss",
+        "description": "zabka is so rude.. dhmu",
+        "displayName": "Beat The Steeple of Xenial Abyss",
+        "displayDescription": "zabka is so rude.. dhmu",
+        "enabled": true,
+        "iconImageId": 13065681970,
+        "displayIconImageId": 13065681970,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 18,
+            "awardedCount": 7423,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:27:16.867Z",
+        "updated": "2023-04-10T05:35:40.79Z"
+    },
+    {
+        "id": 2143764118,
+        "name": "Beat The Steeple of Involuntary Isolation",
+        "description": "\"I just involuntarily isolated these 100 people!!! The last one to leave their circle will receive 500,000 DOLLARS!!!\"",
+        "displayName": "Beat The Steeple of Involuntary Isolation",
+        "displayDescription": "\"I just involuntarily isolated these 100 people!!! The last one to leave their circle will receive 500,000 DOLLARS!!!\"",
+        "enabled": true,
+        "iconImageId": 13515105049,
+        "displayIconImageId": 13515105049,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 4906,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-10T05:28:53.94Z",
+        "updated": "2023-05-22T00:31:34.827Z"
+    },
+    {
+        "id": 2127628604,
+        "name": "Beat The Tower of Uncanny Agony",
+        "description": "I resist the urge to say i- that was uncanny.",
+        "displayName": "Beat The Tower of Uncanny Agony",
+        "displayDescription": "I resist the urge to say i- that was uncanny.",
+        "enabled": true,
+        "iconImageId": 10623963147,
+        "displayIconImageId": 10623963147,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 0,
+            "awardedCount": 1059,
+            "winRatePercentage": 0
+        },
+        "created": "2022-07-26T08:20:38.993Z",
+        "updated": "2022-08-17T11:40:44.04Z"
+    },
+    {
+        "id": 2125416583,
+        "name": "Beat The Tower of High Adrenaline",
+        "description": "This tower has a lot of fast spinners and strict button timers. Now THAT gets the adrenaline going.",
+        "displayName": "Beat The Tower of High Adrenaline",
+        "displayDescription": "This tower has a lot of fast spinners and strict button timers. Now THAT gets the adrenaline going.",
+        "enabled": true,
+        "iconImageId": 9207239708,
+        "displayIconImageId": 9207239708,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 3,
+            "awardedCount": 4439,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-13T03:40:28.71Z",
+        "updated": "2022-03-27T02:12:44.413Z"
+    },
+    {
+        "id": 2125416549,
+        "name": "Beat The Tower of Bent Trauma",
+        "description": "How many times did you fail the final climb?",
+        "displayName": "Beat The Tower of Bent Trauma",
+        "displayDescription": "How many times did you fail the final climb?",
+        "enabled": true,
+        "iconImageId": 9207234573,
+        "displayIconImageId": 9207234573,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 4737,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-13T03:38:47.577Z",
+        "updated": "2022-03-27T02:12:00.63Z"
+    },
+    {
+        "id": 2130091648,
+        "name": "Beat The Tower of Unsettling Heights",
+        "description": "Template, these heights were truly unsettling 🔥🖊️",
+        "displayName": "Beat The Tower of Unsettling Heights",
+        "displayDescription": "Template, these heights were truly unsettling 🔥🖊️",
+        "enabled": true,
+        "iconImageId": 11947174604,
+        "displayIconImageId": 11947174604,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 9,
+            "awardedCount": 4822,
+            "winRatePercentage": 0.001
+        },
+        "created": "2022-12-25T08:33:45.567Z",
+        "updated": "2022-12-28T02:20:15.12Z"
+    },
+    {
+        "id": 2143764075,
+        "name": "Beat The Steeple of Wicked Grotto",
+        "description": "\"ToIM is low remorseless\" - this steeple's creator\n\nBadge Icon by ImSoAnnoying6",
+        "displayName": "Beat The Steeple of Wicked Grotto",
+        "displayDescription": "\"ToIM is low remorseless\" - this steeple's creator\n\nBadge Icon by ImSoAnnoying6",
+        "enabled": true,
+        "iconImageId": 14471816769,
+        "displayIconImageId": 14471816769,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 11,
+            "awardedCount": 8119,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:27:43.583Z",
+        "updated": "2023-08-17T16:29:28.593Z"
     },
     {
         "id": 2143764094,
@@ -538,138 +538,726 @@
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 9,
-            "awardedCount": 4779,
+            "pastDayAwardedCount": 14,
+            "awardedCount": 4806,
             "winRatePercentage": 0.001
         },
         "created": "2023-04-10T05:28:18.78Z",
         "updated": "2023-04-10T05:36:47.6Z"
     },
     {
-        "id": 2125418490,
-        "name": "Beat The Tower of Menacing Creations",
-        "description": "Nice job on beating this tower! You probably weren't able to do it all in one attempt, because some of these creations are truly menacing.",
-        "displayName": "Beat The Tower of Menacing Creations",
-        "displayDescription": "Nice job on beating this tower! You probably weren't able to do it all in one attempt, because some of these creations are truly menacing.",
+        "id": 2143764125,
+        "name": "Beat The Tower of Tenebrous Depths",
+        "description": "I don't have a joke to make. This tower is just awesome.",
+        "displayName": "Beat The Tower of Tenebrous Depths",
+        "displayDescription": "I don't have a joke to make. This tower is just awesome.",
         "enabled": true,
-        "iconImageId": 9199561445,
-        "displayIconImageId": 9199561445,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 9,
-            "awardedCount": 10615,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T06:55:46.91Z",
-        "updated": "2022-03-26T11:01:14.053Z"
-    },
-    {
-        "id": 2125418326,
-        "name": "Beat The Tower of Pleasant Fantasies",
-        "description": "You must be one sleepy boi to earn this badge.",
-        "displayName": "Beat The Tower of Pleasant Fantasies",
-        "displayDescription": "You must be one sleepy boi to earn this badge.",
-        "enabled": true,
-        "iconImageId": 9225512123,
-        "displayIconImageId": 9225512123,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 10,
-            "awardedCount": 11288,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T06:39:22.767Z",
-        "updated": "2022-03-29T03:43:50.46Z"
-    },
-    {
-        "id": 2125384258,
-        "name": " Beat The Tower of Niflheim",
-        "description": "Nihflefeim? Nifhehfim? Nihfml? hhhhhh",
-        "displayName": " Beat The Tower of Niflheim",
-        "displayDescription": "Nihflefeim? Nifhehfim? Nihfml? hhhhhh",
-        "enabled": true,
-        "iconImageId": 9074909064,
-        "displayIconImageId": 9074909064,
+        "iconImageId": 13065691359,
+        "displayIconImageId": 13065691359,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
             "pastDayAwardedCount": 6,
-            "awardedCount": 10197,
+            "awardedCount": 6108,
             "winRatePercentage": 0
         },
-        "created": "2022-03-12T04:09:40.973Z",
-        "updated": "2022-03-12T04:13:03.863Z"
+        "created": "2023-04-10T05:29:05.7Z",
+        "updated": "2023-04-10T05:38:10.163Z"
     },
     {
-        "id": 2125416830,
-        "name": "Beat The Tower of Extreme Dystopia",
-        "description": "Not even physics updates could stop this tower.",
-        "displayName": "Beat The Tower of Extreme Dystopia",
-        "displayDescription": "Not even physics updates could stop this tower.",
+        "id": 2125364309,
+        "name": "Beat The Thanos Tower",
+        "description": "You should have gone for the WIN PAD.Wait, you already did? Well heck.",
+        "displayName": "Beat The Thanos Tower",
+        "displayDescription": "You should have gone for the WIN PAD.Wait, you already did? Well heck.",
         "enabled": true,
-        "iconImageId": 9199633465,
-        "displayIconImageId": 9199633465,
+        "iconImageId": 9225782178,
+        "displayIconImageId": 9225782178,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 19,
+            "awardedCount": 10000,
+            "winRatePercentage": 0.001
+        },
+        "created": "2022-03-11T21:44:48.797Z",
+        "updated": "2022-03-29T04:55:03.68Z"
+    },
+    {
+        "id": 2130253292,
+        "name": "Beat The Tower of Mind Breaking",
+        "description": "Wasn't expecting an SC here, were you? Good job anyways! :D",
+        "displayName": "Beat The Tower of Mind Breaking",
+        "displayDescription": "Wasn't expecting an SC here, were you? Good job anyways! :D",
+        "enabled": true,
+        "iconImageId": 12021536132,
+        "displayIconImageId": 12021536132,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 7,
+            "awardedCount": 3628,
+            "winRatePercentage": 0
+        },
+        "created": "2023-01-03T20:25:02.837Z",
+        "updated": "2023-01-03T20:25:02.837Z"
+    },
+    {
+        "id": 2125383775,
+        "name": "Beat The Tower of Corrupted Nightmares",
+        "description": "You must be extremely woke to beat this tower, have this badge.",
+        "displayName": "Beat The Tower of Corrupted Nightmares",
+        "displayDescription": "You must be extremely woke to beat this tower, have this badge.",
+        "enabled": true,
+        "iconImageId": 9074493929,
+        "displayIconImageId": 9074493929,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 5,
+            "awardedCount": 5926,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-12T03:06:41.237Z",
+        "updated": "2022-03-12T03:06:41.237Z"
+    },
+    {
+        "id": 2125416481,
+        "name": "Beat The Tower of Externalizing Insanity",
+        "description": "You thought most truss jumps in this game were easy? Hopefully this tower proved you wrong!",
+        "displayName": "Beat The Tower of Externalizing Insanity",
+        "displayDescription": "You thought most truss jumps in this game were easy? Hopefully this tower proved you wrong!",
+        "enabled": true,
+        "iconImageId": 9151597229,
+        "displayIconImageId": 9151597229,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 8,
+            "awardedCount": 3394,
+            "winRatePercentage": 0.001
+        },
+        "created": "2022-03-13T03:31:27.03Z",
+        "updated": "2022-03-20T10:05:35.69Z"
+    },
+    {
+        "id": 2125416858,
+        "name": "Beat The Citadel of Peril",
+        "description": "Quite a scary citadel in a calm zone, did you find any beters?",
+        "displayName": "Beat The Citadel of Peril",
+        "displayDescription": "Quite a scary citadel in a calm zone, did you find any beters?",
+        "enabled": true,
+        "iconImageId": 9199630507,
+        "displayIconImageId": 9199630507,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 2957,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-13T04:00:56.053Z",
+        "updated": "2022-03-26T11:10:39.393Z"
+    },
+    {
+        "id": 2125384279,
+        "name": "Another one???",
+        "description": "fnaf",
+        "displayName": "Another one???",
+        "displayDescription": "fnaf",
+        "enabled": true,
+        "iconImageId": 9168030791,
+        "displayIconImageId": 9168030791,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 3452,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-12T04:11:04.673Z",
+        "updated": "2023-08-13T02:16:51.237Z"
+    },
+    {
+        "id": 2125418850,
+        "name": "Beat The Tower of The Dripping Amalgam",
+        "description": "This tower's soundtrack goes hard.",
+        "displayName": "Beat The Tower of The Dripping Amalgam",
+        "displayDescription": "This tower's soundtrack goes hard.",
+        "enabled": true,
+        "iconImageId": 10655736599,
+        "displayIconImageId": 10655736599,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 4,
+            "awardedCount": 2415,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-13T07:30:39.323Z",
+        "updated": "2022-08-20T09:51:21.887Z"
+    },
+    {
+        "id": 2125416587,
+        "name": "Beat The Tower of Pastel Pillars",
+        "description": "Now beat this in under 20 minutes.",
+        "displayName": "Beat The Tower of Pastel Pillars",
+        "displayDescription": "Now beat this in under 20 minutes.",
+        "enabled": true,
+        "iconImageId": 9207240801,
+        "displayIconImageId": 9207240801,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 5,
+            "awardedCount": 3026,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-13T03:40:46.523Z",
+        "updated": "2022-03-27T02:12:56.087Z"
+    },
+    {
+        "id": 2143764050,
+        "name": "Beat The Tower of There Is No Tower",
+        "description": "There is no description, leave.",
+        "displayName": "Beat The Tower of There Is No Tower",
+        "displayDescription": "There is no description, leave.",
+        "enabled": true,
+        "iconImageId": 13065680326,
+        "displayIconImageId": 13065680326,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 18,
+            "awardedCount": 9164,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:26:55.773Z",
+        "updated": "2023-04-10T05:33:36.74Z"
+    },
+    {
+        "id": 2143764143,
+        "name": "Beat The Steeple of Malignant Blight",
+        "description": "SoBA hard mode..",
+        "displayName": "Beat The Steeple of Malignant Blight",
+        "displayDescription": "SoBA hard mode..",
+        "enabled": true,
+        "iconImageId": 13065694723,
+        "displayIconImageId": 13065694723,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 11,
+            "awardedCount": 4350,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-10T05:29:38.247Z",
+        "updated": "2023-04-10T05:40:36.16Z"
+    },
+    {
+        "id": 2143764150,
+        "name": "Beat The Steeple of Midnight Acropolis",
+        "description": "This steeple is if you mixed SoMT, SoMF..... and other strange gameplay that I would absolutely not expect in those steeples.",
+        "displayName": "Beat The Steeple of Midnight Acropolis",
+        "displayDescription": "This steeple is if you mixed SoMT, SoMF..... and other strange gameplay that I would absolutely not expect in those steeples.",
+        "enabled": true,
+        "iconImageId": 13065695825,
+        "displayIconImageId": 13065695825,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
             "pastDayAwardedCount": 9,
-            "awardedCount": 8792,
+            "awardedCount": 3907,
             "winRatePercentage": 0.001
         },
-        "created": "2022-03-13T03:59:07.827Z",
-        "updated": "2022-03-26T11:11:01.447Z"
+        "created": "2023-04-10T05:29:51.587Z",
+        "updated": "2023-04-10T05:49:11.153Z"
     },
     {
-        "id": 2125418546,
-        "name": "Beat The Tower of Mechanically Induced Mayhem",
-        "description": "Pretty cool tower. I don't have much else to say, other than that it must have been pretty satisfying to solve that perspective puzzle.",
-        "displayName": "Beat The Tower of Mechanically Induced Mayhem",
-        "displayDescription": "Pretty cool tower. I don't have much else to say, other than that it must have been pretty satisfying to solve that perspective puzzle.",
+        "id": 2130091633,
+        "name": "Beat The Tower of Excessive Weirdness",
+        "description": "Guess it couldn't get any weirder without it not being medium difficulty anymore...",
+        "displayName": "Beat The Tower of Excessive Weirdness",
+        "displayDescription": "Guess it couldn't get any weirder without it not being medium difficulty anymore...",
         "enabled": true,
-        "iconImageId": 9207415546,
-        "displayIconImageId": 9207415546,
+        "iconImageId": 11916549318,
+        "displayIconImageId": 11916549318,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
-            "pastDayAwardedCount": 9,
-            "awardedCount": 11142,
-            "winRatePercentage": 0.001
+            "pastDayAwardedCount": 38,
+            "awardedCount": 20636,
+            "winRatePercentage": 0.003
         },
-        "created": "2022-03-13T07:00:53.337Z",
-        "updated": "2022-03-27T02:38:48.463Z"
+        "created": "2022-12-25T08:31:17.997Z",
+        "updated": "2022-12-27T20:58:06.727Z"
     },
     {
-        "id": 2125416511,
-        "name": "Beat The Tower of Voluminous Framework",
-        "description": " 👻",
-        "displayName": "Beat The Tower of Voluminous Framework",
-        "displayDescription": " 👻",
+        "id": 2130091634,
+        "name": "Beat The Tower of Two Sided Troubles",
+        "description": "Oh boy, a hard difficulty tower with a b-side!!!",
+        "displayName": "Beat The Tower of Two Sided Troubles",
+        "displayDescription": "Oh boy, a hard difficulty tower with a b-side!!!",
         "enabled": true,
-        "iconImageId": 12437203977,
-        "displayIconImageId": 12437203977,
+        "iconImageId": 11916551481,
+        "displayIconImageId": 11916551481,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 31,
+            "awardedCount": 17544,
+            "winRatePercentage": 0.002
+        },
+        "created": "2022-12-25T08:31:37.523Z",
+        "updated": "2022-12-27T20:58:32.617Z"
+    },
+    {
+        "id": 2130091635,
+        "name": "Beat The Tower of Losing Our Zeal",
+        "description": "I was initially losing my zeal at the lack of LoZ music... Good thing I found an excuse to add some!!!",
+        "displayName": "Beat The Tower of Losing Our Zeal",
+        "displayDescription": "I was initially losing my zeal at the lack of LoZ music... Good thing I found an excuse to add some!!!",
+        "enabled": true,
+        "iconImageId": 11947151337,
+        "displayIconImageId": 11947151337,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 14,
+            "awardedCount": 10255,
+            "winRatePercentage": 0.001
+        },
+        "created": "2022-12-25T08:31:48.31Z",
+        "updated": "2022-12-28T02:21:55.76Z"
+    },
+    {
+        "id": 2130091637,
+        "name": "Beat The Tower of Diverging Layers",
+        "description": "Honestly, I wonder how goofy this tower would look if you took off the outer frame.",
+        "displayName": "Beat The Tower of Diverging Layers",
+        "displayDescription": "Honestly, I wonder how goofy this tower would look if you took off the outer frame.",
+        "enabled": true,
+        "iconImageId": 11947163283,
+        "displayIconImageId": 11947163283,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 15,
+            "awardedCount": 6034,
+            "winRatePercentage": 0.001
+        },
+        "created": "2022-12-25T08:32:08.103Z",
+        "updated": "2022-12-28T02:21:02.247Z"
+    },
+    {
+        "id": 2125394357,
+        "name": "Beat The Tower of Never-ending Dizziness",
+        "description": "There's 3 rings here, can't believe it didn't even take long at all. That, or it's actually just a visual thing and not a whole place.",
+        "displayName": "Beat The Tower of Never-ending Dizziness",
+        "displayDescription": "There's 3 rings here, can't believe it didn't even take long at all. That, or it's actually just a visual thing and not a whole place.",
+        "enabled": true,
+        "iconImageId": 9088331180,
+        "displayIconImageId": 9088331180,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 4,
+            "awardedCount": 5752,
+            "winRatePercentage": 0
+        },
+        "created": "2022-03-12T18:52:41.53Z",
+        "updated": "2022-03-13T08:21:41.27Z"
+    },
+    {
+        "id": 2130091638,
+        "name": "Beat The Tower of Odd Odyssey",
+        "description": "This tower's name is gonna make you accidentally type \"oddyssey\" one day.",
+        "displayName": "Beat The Tower of Odd Odyssey",
+        "displayDescription": "This tower's name is gonna make you accidentally type \"oddyssey\" one day.",
+        "enabled": true,
+        "iconImageId": 11947169284,
+        "displayIconImageId": 11947169284,
         "awarder": {
             "id": 8562822414,
             "type": "Place"
         },
         "statistics": {
             "pastDayAwardedCount": 13,
-            "awardedCount": 13302,
+            "awardedCount": 5514,
             "winRatePercentage": 0.001
         },
-        "created": "2022-03-13T03:33:38.647Z",
-        "updated": "2023-05-22T00:28:53.557Z"
+        "created": "2022-12-25T08:32:17.24Z",
+        "updated": "2022-12-28T02:27:52.83Z"
+    },
+    {
+        "id": 2130091642,
+        "name": "Beat The Tower of Witchcraft and Wizardry",
+        "description": "You're a wizard... Harry... (I feel like this has already been used in a badge description before but ok)",
+        "displayName": "Beat The Tower of Witchcraft and Wizardry",
+        "displayDescription": "You're a wizard... Harry... (I feel like this has already been used in a badge description before but ok)",
+        "enabled": true,
+        "iconImageId": 11947170691,
+        "displayIconImageId": 11947170691,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 29,
+            "awardedCount": 6045,
+            "winRatePercentage": 0.002
+        },
+        "created": "2022-12-25T08:33:17.22Z",
+        "updated": "2022-12-28T02:19:40.69Z"
+    },
+    {
+        "id": 2130091644,
+        "name": "Beat The Tower of Compact Spaces",
+        "description": "Good job on beating what is likely one of the hardest intense towers in the game. :D",
+        "displayName": "Beat The Tower of Compact Spaces",
+        "displayDescription": "Good job on beating what is likely one of the hardest intense towers in the game. :D",
+        "enabled": true,
+        "iconImageId": 11916562823,
+        "displayIconImageId": 11916562823,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 4,
+            "awardedCount": 3603,
+            "winRatePercentage": 0
+        },
+        "created": "2022-12-25T08:33:24.32Z",
+        "updated": "2023-05-07T07:14:03.01Z"
+    },
+    {
+        "id": 2130091645,
+        "name": "Beat The Tower of Tallying Every Mistake",
+        "description": "Wait, Juke didn't help with this tower? On an unrelated note, I think we can all agree that Floor 10's soundtrack slaps.",
+        "displayName": "Beat The Tower of Tallying Every Mistake",
+        "displayDescription": "Wait, Juke didn't help with this tower? On an unrelated note, I think we can all agree that Floor 10's soundtrack slaps.",
+        "enabled": true,
+        "iconImageId": 11947172005,
+        "displayIconImageId": 11947172005,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 4,
+            "awardedCount": 3882,
+            "winRatePercentage": 0
+        },
+        "created": "2022-12-25T08:33:30.687Z",
+        "updated": "2022-12-28T02:25:13.807Z"
+    },
+    {
+        "id": 2130091646,
+        "name": "Beat The Tower of Triple Jeopardy",
+        "description": "The second to last obstacle makes you wonder what kind of other crazy things the creator could have done with the snake spawners.",
+        "displayName": "Beat The Tower of Triple Jeopardy",
+        "displayDescription": "The second to last obstacle makes you wonder what kind of other crazy things the creator could have done with the snake spawners.",
+        "enabled": true,
+        "iconImageId": 11947173210,
+        "displayIconImageId": 11947173210,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 17,
+            "awardedCount": 4412,
+            "winRatePercentage": 0.001
+        },
+        "created": "2022-12-25T08:33:38.407Z",
+        "updated": "2022-12-28T02:24:28.893Z"
+    },
+    {
+        "id": 2144113169,
+        "name": "Beat The Tower of Oblivion",
+        "description": "Took a while to make, hope you enjoyed the lore, surprises, and the finale of the tower.",
+        "displayName": "Beat The Tower of Oblivion",
+        "displayDescription": "Took a while to make, hope you enjoyed the lore, surprises, and the finale of the tower.",
+        "enabled": true,
+        "iconImageId": 13144775381,
+        "displayIconImageId": 13144775381,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 20,
+            "awardedCount": 4892,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-15T23:37:02.44Z",
+        "updated": "2023-05-03T15:59:20.253Z"
+    },
+    {
+        "id": 2144100620,
+        "name": "Beat The Tower of Rough Endoplasmic Reticulum",
+        "description": "NOOO I HATED BIOLOGY CLASS!!!",
+        "displayName": "Beat The Tower of Rough Endoplasmic Reticulum",
+        "displayDescription": "NOOO I HATED BIOLOGY CLASS!!!",
+        "enabled": true,
+        "iconImageId": 13141464927,
+        "displayIconImageId": 13141464927,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 3,
+            "awardedCount": 2277,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-15T18:17:11.37Z",
+        "updated": "2023-04-15T18:17:11.37Z"
+    },
+    {
+        "id": 2143540746,
+        "name": "Beat The Tower of Melons In Time",
+        "description": "We're going back in time to get watermelons off the menu... That's right. We're going back in time to GET WATERMELONS OFF THE MENU!",
+        "displayName": "Beat The Tower of Melons In Time",
+        "displayDescription": "We're going back in time to get watermelons off the menu... That's right. We're going back in time to GET WATERMELONS OFF THE MENU!",
+        "enabled": true,
+        "iconImageId": 13019645920,
+        "displayIconImageId": 13019645920,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 3,
+            "awardedCount": 8137,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T15:45:38.603Z",
+        "updated": "2023-04-16T06:59:57.23Z"
+    },
+    {
+        "id": 2143540875,
+        "name": "Beat The Tower of Cosmic Tides",
+        "description": "Imagine if you accidentally took the SC final stretch route not knowing it was optional.",
+        "displayName": "Beat The Tower of Cosmic Tides",
+        "displayDescription": "Imagine if you accidentally took the SC final stretch route not knowing it was optional.",
+        "enabled": true,
+        "iconImageId": 13019673971,
+        "displayIconImageId": 13019673971,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 8,
+            "awardedCount": 8632,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-06T15:48:39.937Z",
+        "updated": "2023-04-06T15:48:39.937Z"
+    },
+    {
+        "id": 2143541564,
+        "name": "Beat The Tower of X Madness",
+        "description": "No, it's not a tower with 7 floors.",
+        "displayName": "Beat The Tower of X Madness",
+        "displayDescription": "No, it's not a tower with 7 floors.",
+        "enabled": true,
+        "iconImageId": 13019847705,
+        "displayIconImageId": 13019847705,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 7692,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T16:05:54.167Z",
+        "updated": "2023-04-06T16:05:54.167Z"
+    },
+    {
+        "id": 2143541572,
+        "name": "Beat The Tower of Galactic Voyage",
+        "description": "\"What a relaxing towe-\" Floors 9-10:",
+        "displayName": "Beat The Tower of Galactic Voyage",
+        "displayDescription": "\"What a relaxing towe-\" Floors 9-10:",
+        "enabled": true,
+        "iconImageId": 13019850191,
+        "displayIconImageId": 13019850191,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 6,
+            "awardedCount": 6995,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T16:06:10.677Z",
+        "updated": "2023-04-06T16:06:10.677Z"
+    },
+    {
+        "id": 2143541590,
+        "name": "Beat The Tower of Flame Restoration",
+        "description": "Needs more flames tbh..",
+        "displayName": "Beat The Tower of Flame Restoration",
+        "displayDescription": "Needs more flames tbh..",
+        "enabled": true,
+        "iconImageId": 13019854597,
+        "displayIconImageId": 13019854597,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 9,
+            "awardedCount": 4331,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-06T16:06:37.02Z",
+        "updated": "2023-04-06T16:06:37.02Z"
+    },
+    {
+        "id": 2143540994,
+        "name": "Beat The Tower of A Tetromino Disaster",
+        "description": "|_ ̅ || ̅ _||_ ̅ || ̅ _|",
+        "displayName": "Beat The Tower of A Tetromino Disaster",
+        "displayDescription": "|_ ̅ || ̅ _||_ ̅ || ̅ _|",
+        "enabled": true,
+        "iconImageId": 13019701284,
+        "displayIconImageId": 13019701284,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 7,
+            "awardedCount": 7709,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T15:51:35.12Z",
+        "updated": "2023-04-06T15:56:52.703Z"
+    },
+    {
+        "id": 2143541631,
+        "name": "Beat The Tower of One Nine",
+        "description": "☺☺☺",
+        "displayName": "Beat The Tower of One Nine",
+        "displayDescription": "☺☺☺",
+        "enabled": true,
+        "iconImageId": 13019864129,
+        "displayIconImageId": 13019864129,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 10,
+            "awardedCount": 5589,
+            "winRatePercentage": 0.001
+        },
+        "created": "2023-04-06T16:07:34.11Z",
+        "updated": "2023-04-06T16:07:34.11Z"
+    },
+    {
+        "id": 2143541678,
+        "name": "Beat The Tower of Manic Lows",
+        "description": "JToH players try not to complain about this tower's music challenge",
+        "displayName": "Beat The Tower of Manic Lows",
+        "displayDescription": "JToH players try not to complain about this tower's music challenge",
+        "enabled": true,
+        "iconImageId": 13019880637,
+        "displayIconImageId": 13019880637,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 3,
+            "awardedCount": 3683,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T16:09:13.797Z",
+        "updated": "2023-04-06T16:09:13.797Z"
+    },
+    {
+        "id": 2143541637,
+        "name": "Beat The Tower of Never Ending Fun",
+        "description": "Why are the intense difficulty towers in this zone so silly?",
+        "displayName": "Beat The Tower of Never Ending Fun",
+        "displayDescription": "Why are the intense difficulty towers in this zone so silly?",
+        "enabled": true,
+        "iconImageId": 13019866705,
+        "displayIconImageId": 13019866705,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 5,
+            "awardedCount": 4279,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T16:07:48.353Z",
+        "updated": "2023-04-06T16:07:48.353Z"
+    },
+    {
+        "id": 2143541820,
+        "name": "Beat The Tower of Time and Space Manipulation",
+        "description": "Hey, at least this tower doesn't break my animations like ToSaPS!!! Hopefully.....",
+        "displayName": "Beat The Tower of Time and Space Manipulation",
+        "displayDescription": "Hey, at least this tower doesn't break my animations like ToSaPS!!! Hopefully.....",
+        "enabled": true,
+        "iconImageId": 13019914259,
+        "displayIconImageId": 13019914259,
+        "awarder": {
+            "id": 8562822414,
+            "type": "Place"
+        },
+        "statistics": {
+            "pastDayAwardedCount": 4,
+            "awardedCount": 3936,
+            "winRatePercentage": 0
+        },
+        "created": "2023-04-06T16:12:41.82Z",
+        "updated": "2023-04-06T16:12:41.82Z"
     },
     {
         "id": 2143541971,
@@ -686,682 +1274,10 @@
         },
         "statistics": {
             "pastDayAwardedCount": 4,
-            "awardedCount": 2910,
+            "awardedCount": 2926,
             "winRatePercentage": 0
         },
         "created": "2023-04-06T16:16:41.75Z",
         "updated": "2023-04-06T16:16:41.75Z"
-    },
-    {
-        "id": 2127628476,
-        "name": "Beat The Tower of White Space",
-        "description": "Ok but where is Tower of The Eschaton...",
-        "displayName": "Beat The Tower of White Space",
-        "displayDescription": "Ok but where is Tower of The Eschaton...",
-        "enabled": true,
-        "iconImageId": 10622078895,
-        "displayIconImageId": 10622078895,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 7,
-            "awardedCount": 6166,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-07-26T08:03:22.753Z",
-        "updated": "2022-08-17T07:00:13.34Z"
-    },
-    {
-        "id": 2125384250,
-        "name": "Beat The Tower of Twisted Inquisition",
-        "description": "NOBODY SUSPECTS THE TWISTED INQUISITION",
-        "displayName": "Beat The Tower of Twisted Inquisition",
-        "displayDescription": "NOBODY SUSPECTS THE TWISTED INQUISITION",
-        "enabled": true,
-        "iconImageId": 9199358529,
-        "displayIconImageId": 9199358529,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 15116,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-12T04:08:58.733Z",
-        "updated": "2022-03-26T10:34:06.903Z"
-    },
-    {
-        "id": 2125418858,
-        "name": "Beat The Tower of Brief Challenges",
-        "description": "Uhhhh I don't think this tower was very brief.",
-        "displayName": "Beat The Tower of Brief Challenges",
-        "displayDescription": "Uhhhh I don't think this tower was very brief.",
-        "enabled": true,
-        "iconImageId": 10656167371,
-        "displayIconImageId": 10656167371,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 5,
-            "awardedCount": 3819,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-13T07:31:07.92Z",
-        "updated": "2022-08-20T10:44:29.42Z"
-    },
-    {
-        "id": 2125418764,
-        "name": "Beat The Tower of Hefty Magnitude",
-        "description": "HOW IN THE WORLD IS THIS UNDER THE PART LIMIT!?!?!",
-        "displayName": "Beat The Tower of Hefty Magnitude",
-        "displayDescription": "HOW IN THE WORLD IS THIS UNDER THE PART LIMIT!?!?!",
-        "enabled": true,
-        "iconImageId": 10654292458,
-        "displayIconImageId": 10654292458,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 9,
-            "awardedCount": 8166,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:21:56.327Z",
-        "updated": "2022-08-20T06:27:02.497Z"
-    },
-    {
-        "id": 2125418841,
-        "name": "Beat The Tower of Massive Overheating",
-        "description": "Even we don't get why the facility turns rainbow at the end.",
-        "displayName": "Beat The Tower of Massive Overheating",
-        "displayDescription": "Even we don't get why the facility turns rainbow at the end.",
-        "enabled": true,
-        "iconImageId": 10655382236,
-        "displayIconImageId": 10655382236,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 5,
-            "awardedCount": 4786,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-13T07:29:38.733Z",
-        "updated": "2022-08-20T09:05:38.223Z"
-    },
-    {
-        "id": 2125418552,
-        "name": "Beat The Tower of Funky Grooves",
-        "description": "ITS GRRROOOOOOOOOVVVY!",
-        "displayName": "Beat The Tower of Funky Grooves",
-        "displayDescription": "ITS GRRROOOOOOOOOVVVY!",
-        "enabled": true,
-        "iconImageId": 9199884124,
-        "displayIconImageId": 9199884124,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 9,
-            "awardedCount": 6309,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:01:40.21Z",
-        "updated": "2022-03-26T11:43:45.193Z"
-    },
-    {
-        "id": 2125416555,
-        "name": "Beat The Tower of Questionable Trials",
-        "description": "If only you could touch that winpad before the final outside. :)",
-        "displayName": "Beat The Tower of Questionable Trials",
-        "displayDescription": "If only you could touch that winpad before the final outside. :)",
-        "enabled": true,
-        "iconImageId": 9207236191,
-        "displayIconImageId": 9207236191,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 6,
-            "awardedCount": 5270,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-13T03:39:00.083Z",
-        "updated": "2022-03-27T02:12:12.087Z"
-    },
-    {
-        "id": 2125416595,
-        "name": "Beat The Tower of Beat Block Berserk",
-        "description": "This is the first and last time you'll have fun on beat block gameplay.",
-        "displayName": "Beat The Tower of Beat Block Berserk",
-        "displayDescription": "This is the first and last time you'll have fun on beat block gameplay.",
-        "enabled": true,
-        "iconImageId": 9207242079,
-        "displayIconImageId": 9207242079,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 12,
-            "awardedCount": 7966,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T03:41:01.447Z",
-        "updated": "2022-03-27T02:13:09.35Z"
-    },
-    {
-        "id": 2125365147,
-        "name": "Beat The Tower of Falling and Failing",
-        "description": "Looks like you fell, but didn't fail.",
-        "displayName": "Beat The Tower of Falling and Failing",
-        "displayDescription": "Looks like you fell, but didn't fail.",
-        "enabled": true,
-        "iconImageId": 9072971356,
-        "displayIconImageId": 9072971356,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 18,
-            "awardedCount": 21369,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-11T23:13:37.103Z",
-        "updated": "2022-03-11T23:13:37.103Z"
-    },
-    {
-        "id": 2143764075,
-        "name": "Beat The Steeple of Wicked Grotto",
-        "description": "\"ToIM is low remorseless\" - this steeple's creator\n\nBadge Icon by ImSoAnnoying6",
-        "displayName": "Beat The Steeple of Wicked Grotto",
-        "displayDescription": "\"ToIM is low remorseless\" - this steeple's creator\n\nBadge Icon by ImSoAnnoying6",
-        "enabled": true,
-        "iconImageId": 14471816769,
-        "displayIconImageId": 14471816769,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 12,
-            "awardedCount": 8086,
-            "winRatePercentage": 0.001
-        },
-        "created": "2023-04-10T05:27:43.583Z",
-        "updated": "2023-08-17T16:29:28.593Z"
-    },
-    {
-        "id": 2125419236,
-        "name": "Beat 175 Towers",
-        "description": "I'm running out of ideas for these badge descriptions.",
-        "displayName": "Beat 175 Towers",
-        "displayDescription": "I'm running out of ideas for these badge descriptions.",
-        "enabled": true,
-        "iconImageId": 9168101759,
-        "displayIconImageId": 9168101759,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 7233,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T08:04:47.74Z",
-        "updated": "2022-03-22T09:02:56.207Z"
-    },
-    {
-        "id": 2125383771,
-        "name": "Beat The Tower of Dust and Decay",
-        "description": "Where has he gone to... ;(",
-        "displayName": "Beat The Tower of Dust and Decay",
-        "displayDescription": "Where has he gone to... ;(",
-        "enabled": true,
-        "iconImageId": 9074488452,
-        "displayIconImageId": 9074488452,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 11,
-            "awardedCount": 16494,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-12T03:05:50.407Z",
-        "updated": "2022-03-12T03:05:50.407Z"
-    },
-    {
-        "id": 2125394352,
-        "name": "Beat The Tower of Feeling Lazy",
-        "description": "",
-        "displayName": "Beat The Tower of Feeling Lazy",
-        "displayDescription": "",
-        "enabled": true,
-        "iconImageId": 9088329406,
-        "displayIconImageId": 9088329406,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 6,
-            "awardedCount": 12588,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-12T18:52:19.67Z",
-        "updated": "2022-03-13T08:20:57.3Z"
-    },
-    {
-        "id": 2125364319,
-        "name": "Beat The Citadel of Laptop Splitting",
-        "description": "You beat the longest tower/citadel of Ring 1! Hope you enjoyed the last floor.",
-        "displayName": "Beat The Citadel of Laptop Splitting",
-        "displayDescription": "You beat the longest tower/citadel of Ring 1! Hope you enjoyed the last floor.",
-        "enabled": true,
-        "iconImageId": 9225691240,
-        "displayIconImageId": 9225691240,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 39,
-            "awardedCount": 22974,
-            "winRatePercentage": 0.003
-        },
-        "created": "2022-03-11T21:45:08.857Z",
-        "updated": "2022-03-29T04:30:24.41Z"
-    },
-    {
-        "id": 2125383923,
-        "name": "Beat The Tower of Tokyo Heights",
-        "description": "Don't forget your room number.",
-        "displayName": "Beat The Tower of Tokyo Heights",
-        "displayDescription": "Don't forget your room number.",
-        "enabled": true,
-        "iconImageId": 9199209598,
-        "displayIconImageId": 9199209598,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 21962,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-12T03:23:35.253Z",
-        "updated": "2022-03-26T10:13:28.393Z"
-    },
-    {
-        "id": 2125418718,
-        "name": "Beat The Tower of Angled Scenery",
-        "description": "Potato PCs hate it! Learn how a tower manages to get past the part limi- wait, it's under the part limit this time?",
-        "displayName": "Beat The Tower of Angled Scenery",
-        "displayDescription": "Potato PCs hate it! Learn how a tower manages to get past the part limi- wait, it's under the part limit this time?",
-        "enabled": true,
-        "iconImageId": 10654224565,
-        "displayIconImageId": 10654224565,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 9905,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:17:18.843Z",
-        "updated": "2022-08-20T06:16:00.983Z"
-    },
-    {
-        "id": 2143764064,
-        "name": "Beat The Steeple of Xenial Abyss",
-        "description": "zabka is so rude.. dhmu",
-        "displayName": "Beat The Steeple of Xenial Abyss",
-        "displayDescription": "zabka is so rude.. dhmu",
-        "enabled": true,
-        "iconImageId": 13065681970,
-        "displayIconImageId": 13065681970,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 19,
-            "awardedCount": 7374,
-            "winRatePercentage": 0.001
-        },
-        "created": "2023-04-10T05:27:16.867Z",
-        "updated": "2023-04-10T05:35:40.79Z"
-    },
-    {
-        "id": 2143764056,
-        "name": "Beat The Steeple of Guiding Lights",
-        "description": "\"Looks like you died to rush again...\"",
-        "displayName": "Beat The Steeple of Guiding Lights",
-        "displayDescription": "\"Looks like you died to rush again...\"",
-        "enabled": true,
-        "iconImageId": 13065681249,
-        "displayIconImageId": 13065681249,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 18,
-            "awardedCount": 7016,
-            "winRatePercentage": 0.001
-        },
-        "created": "2023-04-10T05:27:06.943Z",
-        "updated": "2023-04-11T17:38:03.347Z"
-    },
-    {
-        "id": 2125418991,
-        "name": "Beat The Steeple of Upright Cliffs",
-        "description": "Only OGs remember the original name.",
-        "displayName": "Beat The Steeple of Upright Cliffs",
-        "displayDescription": "Only OGs remember the original name.",
-        "enabled": true,
-        "iconImageId": 9088088292,
-        "displayIconImageId": 9088088292,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 7886,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:44:27.27Z",
-        "updated": "2022-03-13T07:44:27.27Z"
-    },
-    {
-        "id": 2125418955,
-        "name": "Beat The Steeple of Cliffside Falls",
-        "description": "Bees? Bees.",
-        "displayName": "Beat The Steeple of Cliffside Falls",
-        "displayDescription": "Bees? Bees.",
-        "enabled": true,
-        "iconImageId": 9088073058,
-        "displayIconImageId": 9088073058,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 10,
-            "awardedCount": 8425,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:42:06.897Z",
-        "updated": "2022-03-13T07:42:06.897Z"
-    },
-    {
-        "id": 2125383947,
-        "name": "Beat The Tower of Downward Mobility",
-        "description": "It's quite a lovely tower.",
-        "displayName": "Beat The Tower of Downward Mobility",
-        "displayDescription": "It's quite a lovely tower.",
-        "enabled": true,
-        "iconImageId": 9199213165,
-        "displayIconImageId": 9199213165,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 19,
-            "awardedCount": 22107,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-12T03:26:19.43Z",
-        "updated": "2022-03-26T10:14:01.56Z"
-    },
-    {
-        "id": 2125365496,
-        "name": "Beat The Tower of Despair",
-        "description": "Gotta love how it's always this badge that gets content deleted...",
-        "displayName": "Beat The Tower of Despair",
-        "displayDescription": "Gotta love how it's always this badge that gets content deleted...",
-        "enabled": true,
-        "iconImageId": 9151410031,
-        "displayIconImageId": 9151410031,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 21,
-            "awardedCount": 16650,
-            "winRatePercentage": 0.002
-        },
-        "created": "2022-03-11T23:56:14.85Z",
-        "updated": "2022-03-20T09:39:59.78Z"
-    },
-    {
-        "id": 2125418989,
-        "name": "Beat The Steeple of Hallucinatory Spectacles",
-        "description": "Curse you BirbWatch for making that darned ice race!!",
-        "displayName": "Beat The Steeple of Hallucinatory Spectacles",
-        "displayDescription": "Curse you BirbWatch for making that darned ice race!!",
-        "enabled": true,
-        "iconImageId": 9088087037,
-        "displayIconImageId": 9088087037,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 7,
-            "awardedCount": 9613,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:44:14.19Z",
-        "updated": "2022-03-20T06:50:02.237Z"
-    },
-    {
-        "id": 2125364379,
-        "name": " Get Beaned by ToIE",
-        "description": "That kill brick over the truss has a purpose, a very malicious purpose.",
-        "displayName": " Get Beaned by ToIE",
-        "displayDescription": "That kill brick over the truss has a purpose, a very malicious purpose.",
-        "enabled": true,
-        "iconImageId": 9072446820,
-        "displayIconImageId": 9072446820,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 9,
-            "awardedCount": 12388,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-11T21:50:33.223Z",
-        "updated": "2022-03-11T21:50:33.223Z"
-    },
-    {
-        "id": 2125418748,
-        "name": "Beat The Tower of Watts",
-        "description": "Ok why is there a giant lightning bolt in the middle of mars...",
-        "displayName": "Beat The Tower of Watts",
-        "displayDescription": "Ok why is there a giant lightning bolt in the middle of mars...",
-        "enabled": true,
-        "iconImageId": 10655022080,
-        "displayIconImageId": 10655022080,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 11,
-            "awardedCount": 6291,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:20:53.32Z",
-        "updated": "2022-08-20T08:16:48.807Z"
-    },
-    {
-        "id": 2125416546,
-        "name": "Beat The Tower of Great Overcomings",
-        "description": "This is the easiest tower in the final ring of the inferno, yet it's still no joke. Was it truly a great overcoming?",
-        "displayName": "Beat The Tower of Great Overcomings",
-        "displayDescription": "This is the easiest tower in the final ring of the inferno, yet it's still no joke. Was it truly a great overcoming?",
-        "enabled": true,
-        "iconImageId": 9207233208,
-        "displayIconImageId": 9207233208,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 3,
-            "awardedCount": 8589,
-            "winRatePercentage": 0
-        },
-        "created": "2022-03-13T03:38:30.883Z",
-        "updated": "2022-03-27T02:11:47.48Z"
-    },
-    {
-        "id": 2125418817,
-        "name": "Beat The Tower of Break It, Buy It",
-        "description": "You committed even more war crimes here than you did in SoHS.",
-        "displayName": "Beat The Tower of Break It, Buy It",
-        "displayDescription": "You committed even more war crimes here than you did in SoHS.",
-        "enabled": true,
-        "iconImageId": 10632284696,
-        "displayIconImageId": 10632284696,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 8,
-            "awardedCount": 9255,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:27:34.603Z",
-        "updated": "2022-08-18T05:57:25.597Z"
-    },
-    {
-        "id": 2127628515,
-        "name": "Beat The Tower of Cylindrical Extensions",
-        "description": "What this tower is missing is a corner flip on a cylinder- wait is that even possible cylinders don't have corners...",
-        "displayName": "Beat The Tower of Cylindrical Extensions",
-        "displayDescription": "What this tower is missing is a corner flip on a cylinder- wait is that even possible cylinders don't have corners...",
-        "enabled": true,
-        "iconImageId": 10622169929,
-        "displayIconImageId": 10622169929,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 14,
-            "awardedCount": 9255,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-07-26T08:08:58.58Z",
-        "updated": "2022-08-17T07:17:05.793Z"
-    },
-    {
-        "id": 2125418973,
-        "name": "Beat The Tower of Cyclonic Isles",
-        "description": "HALLWAY TOWER HALLWAY TOWER",
-        "displayName": "Beat The Tower of Cyclonic Isles",
-        "displayDescription": "HALLWAY TOWER HALLWAY TOWER",
-        "enabled": true,
-        "iconImageId": 9088079354,
-        "displayIconImageId": 9088079354,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 12,
-            "awardedCount": 10393,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:43:02.953Z",
-        "updated": "2022-03-13T07:43:02.953Z"
-    },
-    {
-        "id": 2125418658,
-        "name": "Beat The Tower of Conflicting Frontiers",
-        "description": "I can't believe my favorite piano player made this tower!!",
-        "displayName": "Beat The Tower of Conflicting Frontiers",
-        "displayDescription": "I can't believe my favorite piano player made this tower!!",
-        "enabled": true,
-        "iconImageId": 9614369788,
-        "displayIconImageId": 9614369788,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 19,
-            "awardedCount": 12202,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-03-13T07:11:46.297Z",
-        "updated": "2022-05-13T04:50:01.707Z"
-    },
-    {
-        "id": 2127628496,
-        "name": "Beat The Tower of Growing Madness",
-        "description": "It started shrinking after Floor 5... False advertising....",
-        "displayName": "Beat The Tower of Growing Madness",
-        "displayDescription": "It started shrinking after Floor 5... False advertising....",
-        "enabled": true,
-        "iconImageId": 10622080130,
-        "displayIconImageId": 10622080130,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 16,
-            "awardedCount": 10543,
-            "winRatePercentage": 0.001
-        },
-        "created": "2022-07-26T08:05:52.71Z",
-        "updated": "2022-08-17T07:00:28.597Z"
-    },
-    {
-        "id": 2143541572,
-        "name": "Beat The Tower of Galactic Voyage",
-        "description": "\"What a relaxing towe-\" Floors 9-10:",
-        "displayName": "Beat The Tower of Galactic Voyage",
-        "displayDescription": "\"What a relaxing towe-\" Floors 9-10:",
-        "enabled": true,
-        "iconImageId": 13019850191,
-        "displayIconImageId": 13019850191,
-        "awarder": {
-            "id": 8562822414,
-            "type": "Place"
-        },
-        "statistics": {
-            "pastDayAwardedCount": 15,
-            "awardedCount": 6964,
-            "winRatePercentage": 0.001
-        },
-        "created": "2023-04-06T16:06:10.677Z",
-        "updated": "2023-04-06T16:06:10.677Z"
     }
 ]
