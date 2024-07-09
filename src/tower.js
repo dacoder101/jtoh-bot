@@ -43,7 +43,7 @@ class AreaDoesNotExistError extends Error {
 
 class DifficultyDoesNotExistError extends Error {
     constructor(difficulty) {
-        super(`Difficulty "${difficulty}" does not exist..`);
+        super(`Difficulty "${difficulty}" does not exist.`);
     }
 }
 
@@ -88,8 +88,8 @@ class Tower {
     }
 
     constructor(name, difficulty) {
-        this.name = "Tower of " + name;
-        this.acyronym = Tower.getAcyronym(this.name);
+        this.name = name;
+        this.acyronym = Tower.getAcyronym(name);
         this.difficulty = difficulty;
         this.difficultyName = Tower.difficultyName(difficulty);
     }
