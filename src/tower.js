@@ -37,15 +37,15 @@ const decimalDifficultyMappings = {
     peak: 0.89,
 };
 
-class AreaDoesNotExistError extends Error {
-    constructor(area) {
-        super(`Area "${area}" does not exist.`);
-    }
-}
-
 class ValueEmptyError extends Error {
     constructor(value) {
         super(`Value "${value}" is empty.`);
+    }
+}
+
+class AreaDoesNotExistError extends Error {
+    constructor(area) {
+        super(`Area "${area}" does not exist.`);
     }
 }
 
@@ -137,6 +137,7 @@ function JSONToTowers(input) {
 module.exports = {
     difficultyMappings,
     decimalDifficultyMappings,
+    ValueIsEmptyError,
     AreaDoesNotExistError,
     DifficultyDoesNotExistError,
     Tower,
