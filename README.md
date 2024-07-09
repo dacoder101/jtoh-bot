@@ -1,3 +1,5 @@
+*This project is currently being developed and does not currently function as the README describes*
+
 # JToH Bot
 
 **Do you need a solution for JToH/JToH fangame Discord servers? Here's the answer!**
